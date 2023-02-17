@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">String Builder</h1>
 <h3 align="center">Easy Tools To Make String.xml</h3>
-<h4 align="center"> App To Help You Automically Generate String Key And Values With Material UI. </h4>
+<h4 align="center"> App To Help You Automically Generate String Key And Values With Material UI Write In Java. </h4>
 
 ### Interface
 <p align="center">
