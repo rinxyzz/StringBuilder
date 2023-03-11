@@ -1,1 +1,18 @@
+you can unzip StringManager.zip file to get the source code for string builder app
+> App Build Using Android Studio (Recommended)
 
+## App Officialy Made By Rin Using Material 1.4.0 & AppCompat 1.2.0
+```java
+ implementation fileTree(dir: 'libs', include: ['*.jar'])
+ implementation 'androidx.appcompat:appcompat:1.2.0'
+ implementation 'com.google.android.material:material:1.4.0'
+ minifyEnabled false
+ proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+ applicationId "com.r4e.string"
+		minSdkVersion 21
+		targetSdkVersion 28
+		versionCode 1
+		versionName "1.0"
+ ```
+
+ You Can Contact Me For Other Problem Or Suggestions At [discord](https://rin4ever.xyz/discord)
